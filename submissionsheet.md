@@ -122,7 +122,7 @@ Final: PASTE URL HERE
 
 Checkpoint 1: https://github.com/Xtina-R/Final-Project
 
-Checkpoint 2: PASTE URL HERE
+Checkpoint 2: https://github.com/Xtina-R/Exercise-Notebook/blob/master/Checkpoint%20Two.md
 
 Draft: PASTE URL HERE
 
