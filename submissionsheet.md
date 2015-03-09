@@ -120,9 +120,9 @@ Final: PASTE URL HERE
 
 *Ross, Christina*
 
-Checkpoint 1: https://github.com/Xtina-R/Final-Project
+Checkpoint 1: https://github.com/Xtina-R/Final-Project/blob/master/Checkpoint%201.md
 
-Checkpoint 2: PASTE URL HERE
+Checkpoint 2: https://github.com/Xtina-R/Final-Project/blob/master/Checkpoint%20Two.md
 
 Draft: PASTE URL HERE
 
